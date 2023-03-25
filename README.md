@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @amardhaliwal9
-- 👀 I’m interested in Machine Learning and Blockchain programming
-- 🌱 I’m currently learning python and solidity. I plan on learning Rust, Substrate, Javascript and Tensorflow eventually
-- 💞️ I’m looking to collaborate on data analysis and blockchain projects
+- 👀 I’m interested in learning about the polkadot ecosystem, in particular Substrate and Ink!
+- 🌱 I’m currently learning rust!
+- 💞️ I’m looking to collaborate on interesting projects within the polkadot ecosystem. Particlarly in the areas of Defi and Governance
 - 📫 reach me at amar.dhaliwal9@gmail.com
 
 <!---
